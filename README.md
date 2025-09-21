@@ -27,13 +27,13 @@ Desenvolver uma aplicação local (desktop/notebook) que realiza **detecção fa
 ## 📦 Instalação
 
 1. Clone o repositório:
-   -Crie uma pasta no seu computador
-   -Abra o terminal (CMD) nesta mesma pasta e execute:  git clone https://github.com/Guilherme-Daher/Sprint3--IOT.git
-   -Entre na Folder do projeto e dentro dela execute no terminal: code .
-   -Nisso abrirá o VSCODE direto e assim só bastará abrir o terminal e executar: python main.py
+- Crie uma pasta no seu computador
+- Abra o terminal (CMD) nesta mesma pasta e execute:  git clone https://github.com/Guilherme-Daher/Sprint3--IOT.git
+- Entre na Folder do projeto e dentro dela execute no terminal: code .
+- Nisso abrirá o VSCODE direto e assim só bastará abrir o terminal e executar: python main.py
 
 ## 📈 Melhorias:
--Reforçar que o Trigger do reconhecimento facil seja somente no rosto de uma pessoa e que qualquer exceção de reconhecimento, Boca, Nariz, Orelha e etc, seja anulado da validação. Visto que o intuíto do programa em si, é uma validação FACIAL.
--Adicionar alguns parâmetros intuitivos e interativos com o usuário, visando melhorar a experiência de quem está executando o programa em si.
+- Reforçar que o Trigger do reconhecimento facil seja somente no rosto de uma pessoa e que qualquer exceção de reconhecimento, Boca, Nariz, Orelha e etc, seja anulado da validação. Visto que o intuíto do programa em si, é uma validação FACIAL.
+- Adicionar alguns parâmetros intuitivos e interativos com o usuário, visando melhorar a experiência de quem está executando o programa em si.
 
    
